@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=23&duration=2500&pause=900&color=0353A4&center=true&vCenter=true&width=790&height=100&lines=Analista+de+neg%C3%B3cios+%7C+Business+Analyst;Gerente+de+projetos+%7C+Project+Manager;Desenvolvedor+Full+Stack;Da+programa%C3%A7%C3%A3o+a+gest%C3%A3o+de+projetos%3A+construindo+o+futuro+digital.)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=23&duration=2500&pause=900&color=001233&center=true&vCenter=true&width=790&height=100&lines=Analista+de+neg%C3%B3cios+%7C+Business+Analyst;Gerente+de+projetos+%7C+Project+Manager;Desenvolvedor+Full+Stack;Da+programa%C3%A7%C3%A3o+a+gest%C3%A3o+de+projetos%3A+construindo+o+futuro+digital.)
 
   <p align="center">
     <a href="https://www.linkedin.com/in/tech-gabriel" target="_blank">
@@ -61,17 +61,17 @@ mindmap
 
 -----
 
-## 🚀 Ecossistema de Gestão e Análise
+## 🚀 Ecossistema de gestão e análise
 
 Minhas competências de análise, gestão e produto organizadas para fácil visualização.
 
-| Business Analysis | Metodologias & Frameworks | Ferramentas de Gestão | Product Management |
-| :--- | :--- | :--- | :--- |
-| ![Business Analysis](https://img.shields.io/badge/Business_Analysis-4A90E2?style=for-the-badge) <br> ![Requirements](https://img.shields.io/badge/Requirements_Engineering-2ECC71?style=for-the-badge) <br> ![BPMN](https://img.shields.io/badge/BPMN-FF6B6B?style=for-the-badge) <br> ![UML](https://img.shields.io/badge/UML-9B59B6?style=for-the-badge) <br> ![SQL](https://img.shields.io/badge/SQL_Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Data Analysis](https://img.shields.io/badge/Data_Analysis-F39C12?style=for-the-badge) | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) <br> ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white) <br> ![PMI](https://img.shields.io/badge/PMI-003366?style=for-the-badge&logo=pmi&logoColor=white) <br> ![SAFe](https://img.shields.io/badge/SAFe-00A3E0?style=for-the-badge) <br> ![Lean](https://img.shields.io/badge/Lean-FF6C37?style=for-the-badge) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) <br> ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) <br> ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) <br> ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) <br> ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white) <br> ![Monday](https://img.shields.io/badge/Monday-FF3366?style=for-the-badge&logo=monday&logoColor=white) <br> ![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white) <br> ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) | ![Product](https://img.shields.io/badge/Product_Discovery-FF6B6B?style=for-the-badge) <br> ![Analytics](https://img.shields.io/badge/Product_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white) <br> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) <br> ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white) |
+| Business Analysis | Metodologias & Frameworks | Ferramentas de Gestão |
+| :--- | :--- | :--- |
+| ![Business Analysis](https://img.shields.io/badge/Business_Analysis-4A90E2?style=for-the-badge) <br> ![Requirements](https://img.shields.io/badge/Requirements_Engineering-2ECC71?style=for-the-badge) <br> ![BPMN](https://img.shields.io/badge/BPMN-FF6B6B?style=for-the-badge) <br> ![UML](https://img.shields.io/badge/UML-9B59B6?style=for-the-badge) <br> ![SQL](https://img.shields.io/badge/SQL_Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Data Analysis](https://img.shields.io/badge/Data_Analysis-F39C12?style=for-the-badge) | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) <br> ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white) <br> ![PMI](https://img.shields.io/badge/PMI-003366?style=for-the-badge&logo=pmi&logoColor=white) <br> ![SAFe](https://img.shields.io/badge/SAFe-00A3E0?style=for-the-badge) <br> ![Lean](https://img.shields.io/badge/Lean-FF6C37?style=for-the-badge) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) <br> ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) <br> ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) <br> ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) <br> ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white) <br> ![Monday](https://img.shields.io/badge/Monday-FF3366?style=for-the-badge&logo=monday&logoColor=white) <br> ![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white) <br> |
 
 -----
 
-## 🛠️ Stack Técnico
+## 🛠️ Stack técnico
 
 Meu background como desenvolvedor me permite ter um diálogo técnico profundo com as equipes de engenharia.
 
@@ -117,17 +117,3 @@ Meu background como desenvolvedor me permite ter um diálogo técnico profundo c
 </details>
 
 -----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-</div>
-
------
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-</div>

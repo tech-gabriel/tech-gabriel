@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=23&duration=2500&pause=900&color=0353A4&center=true&vCenter=true&width=790&height=100&lines=Analista+de+neg%C3%B3cios+%7C+Business+Analyst;Gerente+de+projetos+%7C+Project+Manager;Desenvolvedor+Full+Stack;Da+programa%C3%A7%C3%A3o+a+gest%C3%A3o+de+projetos%3A+construindo+o+futuro+digital.)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=23&duration=2500&pause=900&color=0466C8&center=true&vCenter=true&width=790&height=100&lines=Analista+de+neg%C3%B3cios+%7C+Business+Analyst;Gerente+de+projetos+%7C+Project+Manager;Desenvolvedor+Full+Stack;Da+programa%C3%A7%C3%A3o+a+gest%C3%A3o+de+projetos%3A+construindo+o+futuro+digital.)
   
   <p align="center">
     <a href="https://www.linkedin.com/in/tech-gabriel" target="_blank">

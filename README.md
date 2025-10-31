@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑🏻‍💻 Sobre Mim
+## 🧑🏻‍💻 Sobre mim
 
 Sou **Business Analyst** na **Diebold Nixdorf** com formação em **Tecnologia da Informação pela UFMS** e sólida experiência em desenvolvimento. Atuo na interseção entre negócio e tecnologia, transformando dados em insights acionáveis e requisitos em soluções efetivas.
 
@@ -33,7 +33,7 @@ Minha trajetória como desenvolvedor me dá uma visão única para análise de s
 
 ---
 
-## 💼 Áreas de Atuação
+## 💼 Áreas de atuação
 
 <div align="center">
 
